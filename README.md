@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ayush Kumar</h1>
 <h3 align="center">A passionate developer from India</h3>
 
-- 🌱 I’m currently learning **React, Flask, MongoDB**
+- 🌱 I’m currently learning **React, Flask, MongoDB, ML**
 
 - 💬 Ask me about **Python, C++, Java**
 
